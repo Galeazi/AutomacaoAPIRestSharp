@@ -1,0 +1,12 @@
+{
+  "uuid": "0b8dba78-6742-4a9f-a2d8-b5ef40edd020",
+  "name": "AutomacaoAPIRestSharp.Tests.DeletePostTests",
+  "children": [
+    "94798d29-2324-4c33-96df-7e0893f61357"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1753281306578,
+  "stop": 1753281307104
+}

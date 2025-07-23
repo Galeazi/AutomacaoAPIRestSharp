@@ -1,0 +1,81 @@
+{
+  "uuid": "b97d02fe-349c-4c8a-b691-c5350b73b475",
+  "historyId": "1b1ef87f54bc32ec63acc863b8462451",
+  "testCaseId": "a0349459d4c5d7576866054ed741f04d",
+  "fullName": "AutomacaoAPIRestSharp:AutomacaoAPIRestSharp.Tests.GetPostTests.GetPost_DeveRetornarStatus200EValidarSchema()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET ThreadPool Worker"
+    },
+    {
+      "name": "host",
+      "value": "NOTEGALEAZI"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "AutomacaoAPIRestSharp.Tests.GetPostTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "AutomacaoAPIRestSharp.Tests.GetPostTests.GetPost_DeveRetornarStatus200EValidarSchema"
+    },
+    {
+      "name": "package",
+      "value": "AutomacaoAPIRestSharp.Tests.GetPostTests"
+    },
+    {
+      "name": "feature",
+      "value": "GetPostTest"
+    },
+    {
+      "name": "subSuite",
+      "value": "Buscar Post"
+    },
+    {
+      "name": "suite",
+      "value": "Posts API"
+    },
+    {
+      "name": "owner",
+      "value": "Mateus"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "tag",
+      "value": "API"
+    },
+    {
+      "name": "tag",
+      "value": "GET"
+    }
+  ],
+  "links": [],
+  "name": "AutomacaoAPIRestSharp.Tests.GetPostTests.GetPost_DeveRetornarStatus200EValidarSchema",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Assert.Equal() Failure: Values differ\r\nExpected: 200\r\nActual:   0",
+    "trace": "   at Xunit.Assert.Equal[T](T expected, T actual, IEqualityComparer`1 comparer) in /_/src/xunit.assert/Asserts/EqualityAsserts.cs:line 154\r\n   at Xunit.Assert.Equal[T](T expected, T actual) in /_/src/xunit.assert/Asserts/EqualityAsserts.cs:line 89\r\n   at AutomacaoAPIRestSharp.Tests.GetPostTests.GetPost_DeveRetornarStatus200EValidarSchema() in C:\\Users\\mateu\\Downloads\\AutomacaoAPIRestSharp\\Tests\\Posts\\GetPostTests.cs:line 25"
+  },
+  "stage": "finished",
+  "description": "Valida o schema do retorno ao buscar um post",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1753280067958,
+  "stop": 1753280168122
+}

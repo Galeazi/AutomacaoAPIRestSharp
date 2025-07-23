@@ -1,0 +1,77 @@
+{
+  "uuid": "d0f575d2-0cbd-482e-8a6f-d48384840305",
+  "historyId": "0f59e4052ed5b2c14d2fec97a1ee9e91",
+  "testCaseId": "d2996280a58853623ac2c1aaef025be9",
+  "fullName": "AutomacaoAPIRestSharp:AutomacaoAPIRestSharp.Tests.CreatePostTests.CriarPost_DeveRetornarDadosCorretos()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET ThreadPool Worker"
+    },
+    {
+      "name": "host",
+      "value": "NOTEGALEAZI"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "AutomacaoAPIRestSharp.Tests.CreatePostTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "AutomacaoAPIRestSharp.Tests.CreatePostTests.CriarPost_DeveRetornarDadosCorretos"
+    },
+    {
+      "name": "package",
+      "value": "AutomacaoAPIRestSharp.Tests.CreatePostTests"
+    },
+    {
+      "name": "subSuite",
+      "value": "Criar Post"
+    },
+    {
+      "name": "suite",
+      "value": "Posts API"
+    },
+    {
+      "name": "owner",
+      "value": "Mateus"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "tag",
+      "value": "API"
+    },
+    {
+      "name": "tag",
+      "value": "POST"
+    }
+  ],
+  "links": [],
+  "name": "AutomacaoAPIRestSharp.Tests.CreatePostTests.CriarPost_DeveRetornarDadosCorretos",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Assert.Equal() Failure: Values differ\r\nExpected: Created\r\nActual:   0",
+    "trace": "   at Xunit.Assert.Equal[T](T expected, T actual, IEqualityComparer`1 comparer) in /_/src/xunit.assert/Asserts/EqualityAsserts.cs:line 154\r\n   at Xunit.Assert.Equal[T](T expected, T actual) in /_/src/xunit.assert/Asserts/EqualityAsserts.cs:line 89\r\n   at AutomacaoAPIRestSharp.Tests.CreatePostTests.CriarPost_DeveRetornarDadosCorretos() in C:\\Users\\mateu\\Downloads\\AutomacaoAPIRestSharp\\Tests\\Posts\\CreatePostTests.cs.cs:line 33"
+  },
+  "stage": "finished",
+  "description": "Cria um novo post e valida a resposta",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1753280724621,
+  "stop": 1753280824794
+}

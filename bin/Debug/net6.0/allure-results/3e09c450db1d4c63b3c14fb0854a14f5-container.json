@@ -1,0 +1,12 @@
+{
+  "uuid": "5440c457-e2a2-4d6d-89c3-f653c57a4e78",
+  "name": "AutomacaoAPIRestSharp.Tests.GetPostTests",
+  "children": [
+    "9da48a64-979a-4f11-9d92-8d4eff84d445"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1753279552552,
+  "stop": 1753279552931
+}

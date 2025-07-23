@@ -1,0 +1,80 @@
+{
+  "uuid": "7102aa55-a9d2-477d-bac6-a77f63ed6472",
+  "historyId": "0f59e4052ed5b2c14d2fec97a1ee9e91",
+  "testCaseId": "d2996280a58853623ac2c1aaef025be9",
+  "fullName": "AutomacaoAPIRestSharp:AutomacaoAPIRestSharp.Tests.CreatePostTests.CriarPost_DeveRetornarDadosCorretos()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET ThreadPool Worker"
+    },
+    {
+      "name": "host",
+      "value": "NOTEGALEAZI"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "AutomacaoAPIRestSharp.Tests.CreatePostTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "AutomacaoAPIRestSharp.Tests.CreatePostTests.CriarPost_DeveRetornarDadosCorretos"
+    },
+    {
+      "name": "package",
+      "value": "AutomacaoAPIRestSharp.Tests.CreatePostTests"
+    },
+    {
+      "name": "feature",
+      "value": "CreatePostTest"
+    },
+    {
+      "name": "subSuite",
+      "value": "Criar Post"
+    },
+    {
+      "name": "suite",
+      "value": "Posts API"
+    },
+    {
+      "name": "owner",
+      "value": "Mateus"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "tag",
+      "value": "API"
+    },
+    {
+      "name": "tag",
+      "value": "POST"
+    }
+  ],
+  "links": [],
+  "name": "AutomacaoAPIRestSharp.Tests.CreatePostTests.CriarPost_DeveRetornarDadosCorretos",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "description": "Cria um novo post e valida a resposta",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1753281568802,
+  "stop": 1753281569469
+}

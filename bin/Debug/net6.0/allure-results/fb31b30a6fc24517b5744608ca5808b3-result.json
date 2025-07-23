@@ -1,0 +1,81 @@
+{
+  "uuid": "396bd6e5-1756-4676-a0e6-f30b3e8e8060",
+  "historyId": "b2098a9b7c9fb03e62f6de013f0f7ffa",
+  "testCaseId": "d8965ce13b18e3e9b645f6ff1c2d892b",
+  "fullName": "AutomacaoAPIRestSharp:AutomacaoAPIRestSharp.Tests.DeletePostTests.DeletePost_DeveRetornarStatus200()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET ThreadPool Worker"
+    },
+    {
+      "name": "host",
+      "value": "NOTEGALEAZI"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "AutomacaoAPIRestSharp.Tests.DeletePostTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "AutomacaoAPIRestSharp.Tests.DeletePostTests.DeletePost_DeveRetornarStatus200"
+    },
+    {
+      "name": "package",
+      "value": "AutomacaoAPIRestSharp.Tests.DeletePostTests"
+    },
+    {
+      "name": "feature",
+      "value": "DeletePostTest"
+    },
+    {
+      "name": "subSuite",
+      "value": "Deletar Post"
+    },
+    {
+      "name": "suite",
+      "value": "Posts API"
+    },
+    {
+      "name": "owner",
+      "value": "Mateus"
+    },
+    {
+      "name": "severity",
+      "value": "minor"
+    },
+    {
+      "name": "tag",
+      "value": "API"
+    },
+    {
+      "name": "tag",
+      "value": "DELETE"
+    }
+  ],
+  "links": [],
+  "name": "AutomacaoAPIRestSharp.Tests.DeletePostTests.DeletePost_DeveRetornarStatus200",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Assert.Equal() Failure: Values differ\r\nExpected: 200\r\nActual:   0",
+    "trace": "   at Xunit.Assert.Equal[T](T expected, T actual, IEqualityComparer`1 comparer) in /_/src/xunit.assert/Asserts/EqualityAsserts.cs:line 154\r\n   at Xunit.Assert.Equal[T](T expected, T actual) in /_/src/xunit.assert/Asserts/EqualityAsserts.cs:line 89\r\n   at AutomacaoAPIRestSharp.Tests.DeletePostTests.DeletePost_DeveRetornarStatus200() in C:\\Users\\mateu\\Downloads\\AutomacaoAPIRestSharp\\Tests\\Posts\\DeletePostTests.cs:line 24"
+  },
+  "stage": "finished",
+  "description": "Deleta um post e valida o status 200",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1753280612035,
+  "stop": 1753280712321
+}

@@ -1,0 +1,80 @@
+{
+  "uuid": "6174310a-ca63-473d-bf04-c3e7b15f7bf7",
+  "historyId": "1b1ef87f54bc32ec63acc863b8462451",
+  "testCaseId": "a0349459d4c5d7576866054ed741f04d",
+  "fullName": "AutomacaoAPIRestSharp:AutomacaoAPIRestSharp.Tests.GetPostTests.GetPost_DeveRetornarStatus200EValidarSchema()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET ThreadPool Worker"
+    },
+    {
+      "name": "host",
+      "value": "NOTEGALEAZI"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "AutomacaoAPIRestSharp.Tests.GetPostTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "AutomacaoAPIRestSharp.Tests.GetPostTests.GetPost_DeveRetornarStatus200EValidarSchema"
+    },
+    {
+      "name": "package",
+      "value": "AutomacaoAPIRestSharp.Tests.GetPostTests"
+    },
+    {
+      "name": "feature",
+      "value": "DeletePostTest"
+    },
+    {
+      "name": "subSuite",
+      "value": "Buscar Post"
+    },
+    {
+      "name": "suite",
+      "value": "Posts API"
+    },
+    {
+      "name": "owner",
+      "value": "Mateus"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "tag",
+      "value": "API"
+    },
+    {
+      "name": "tag",
+      "value": "GET"
+    }
+  ],
+  "links": [],
+  "name": "AutomacaoAPIRestSharp.Tests.GetPostTests.GetPost_DeveRetornarStatus200EValidarSchema",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "description": "Valida o schema do retorno ao buscar um post",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1753281306591,
+  "stop": 1753281307045
+}
