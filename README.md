@@ -17,7 +17,7 @@ Este projeto é uma automação de testes para a API `https://jsonplaceholder.ty
    - Envia um DELETE.
    - Valida que a resposta tem status 200 (mesmo sendo fake).
 
-## 🛠Tecnologias
+## Tecnologias
 
 - .NET 9
 - xUnit
